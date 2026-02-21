@@ -16,3 +16,7 @@ O site dará dicas se o número é maior ou menor até o usuário acertar. Após
 - CSS
 
 </h5>
+
+<h6 align="center">
+Acesse o site para jogar: https://looserafael.github.io/Jogo-do-n-mero-secreto/
+</h6>
